@@ -1,0 +1,9 @@
+.bg-brown {
+  background-color: #795c34;
+  color: #fff;
+}
+
+.fa-mug-hot {
+  transform: translateY(-1px);
+  color: #ac8247;
+}
